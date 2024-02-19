@@ -1,0 +1,19 @@
+{
+  "Index": "Welcome",
+  "nav": {
+    "title": "Nav",
+    "type": "page",
+    "href": "/nav",
+    "newWindow": false
+  },
+  "linux": {
+    "title": "Linux",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
